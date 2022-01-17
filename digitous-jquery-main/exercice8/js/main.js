@@ -1,6 +1,7 @@
 
 $(function(){
     $(".btn").click(function() {
-        displaySecretText()   
+        // displaySecretText()  
+        $("#exercise #text").show()
     });
 });

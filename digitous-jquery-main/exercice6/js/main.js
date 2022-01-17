@@ -1,0 +1,4 @@
+$(function(){
+
+    $("#text").html("konexio");
+  });

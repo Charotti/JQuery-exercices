@@ -10,6 +10,6 @@ $(function () {
         // console.log(is-invalid);
       
       }
-    });
+    });""
  
 });
